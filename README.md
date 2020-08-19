@@ -9,6 +9,6 @@ Link to the dataset :
 
 # Tools Used
 ## FastAi
-![FastAi Logo](/fastai-logo.png)
+![FastAi Logo](/images/fastai-logo.png)
 
 fast.ai is a non-profit research group focused on deep learning and artificial intelligence. It was founded in 2016 by Jeremy Howard and Rachel Thomas with the goal of democratising deep learning.
