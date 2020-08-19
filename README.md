@@ -12,3 +12,9 @@ Link to the dataset :
 ![FastAi Logo](/images/fastai-logo.png)
 
 fast.ai is a non-profit research group focused on deep learning and artificial intelligence. It was founded in 2016 by Jeremy Howard and Rachel Thomas with the goal of democratising deep learning.
+
+
+## Pytorch
+![Pytorch Logo](/images/PyTorch-logo.jpg)
+
+PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing, primarily developed by Facebook's AI Research lab. It is free and open-source software released under the Modified BSD license.
